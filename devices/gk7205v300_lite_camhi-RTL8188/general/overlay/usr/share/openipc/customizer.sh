@@ -5,7 +5,7 @@
 #
 # Set custom upgrade url
 #
-fw_setenv upgrade 'https://github.com/OpenIPC/builder/releases/download/latest/gk7205v300_lite_vixand-ivg-g6s-w-nor.tgz'
+fw_setenv upgrade 'https://github.com/OpenIPC/builder/releases/download/latest/gk7205v300_lite_camhi-RTL8188.tgz'
 #
 #
 # Set wlan device and credentials if need
