@@ -5,7 +5,7 @@
 #
 # Set custom upgrade url
 #
-fw_setenv upgrade 'https://github.com/dzhukow/builder/releases/download/latest/gk7205v300_lite_camhi-usbRT8188fu.tgz'
+fw_setenv upgrade 'https://github.com/dzhukow/builder/releases/download/latest/gk7205v300_lite_camhi-usbRT8188fu-nor.tgz'
 #
 #
 # Set wlan device and credentials if need
